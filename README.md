@@ -1,2 +1,3 @@
 # Demo
-This is my private repository
+This is my first repository.
+Author - Aditi Keshavamurthy
